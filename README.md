@@ -1,3 +1,5 @@
+## Well, this repo might not work properly based on these files and configuration. In 2025 (March), I deployed this app on Google VM and it took some efforts to fixing the code, and it ran properly ---- By Kamrul Hasan
+
 ## Scoobiedog
 Repository I use to gather slot results and save them for offline replay.
 
